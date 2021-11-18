@@ -83,8 +83,8 @@ main {
 }
 
 .hero-banner img {
-    width: 150px;
-    margin: 20px;
+   width: 100px;
+    margin: 10px;
     border-radius: 10%;
     opacity: 0.8;
 }
@@ -94,7 +94,7 @@ main {
 }
 
 .hero-banner h2 {
-    background-color: rgb(68, 88, 120);
+    /*background-color: rgb(68, 88, 120);*/
     color: white;
     margin: 0;
     padding: 5px 10px;
@@ -185,6 +185,12 @@ main {
 }
 
 /* Images*/
+.video.game.database {
+    background-image: url("../images/7.png");
+}
+.nonprofit.career.planer {
+    background-image: url("../images/8.png");
+}
 .horiseon {
     background-image: url("../images/horisen.png");
 }
